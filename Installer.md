@@ -6,13 +6,13 @@
 
 ## 安装前准备
 
-以前的安装教程都是只写教程本身的操作，没有往外延伸。
-
 现在都已经是2021年了，全新的`Monterey`已经发布，无论是硬件还是`macOS`系统本身，已经有了翻天覆地的变化。
 
 ### 硬件准备：
 
 在使用`macOS`之前，需要先了解下硬件都有哪些限制，也就是哪些硬件是被支持的，哪些是不被支持的。
+
+目前 `morefine S500` 所有的硬件都是可以兼容使用 `macOS` 的
 
 #### 电脑配置
 
@@ -46,7 +46,7 @@
 
 - 博通：
 
-  绝大多数的博通(Boardcom)可以得到免驱或者通过添加驱动得到支持；
+  由于空间受限，所以可以使用的型号包括：`BCM94360Z3` / `DW1820A` / `DW1560`，不支持 `BCM94360Z4` / `DW1830`等，可能也不支持白果拆机卡等;
 
 - INTEL：
 
@@ -98,8 +98,6 @@
 
   利用刚才下载的[WinMD5](https://www.winmd5.com/)检查md5值是否正确，如果md5值不相同**必须重新下载安装镜像，不要心存侥幸** 
 
-  ![WinMD5](https://images.daliansky.net/d/YmBXVA8q/blog/BigSur/WinMD5.png?download=1)
-
 - `macOS`环境：
 
   ```bash
@@ -107,13 +105,12 @@
   MD5 (macOS Monterey 12.0.1 21A559 Installer for morefine S500 11-15-2021.dmg) = f16ec7f118da22c66b9f0a46a1cd8c12
   ```
 
-  
 
 ##### 将安装镜像写到`USB`上（制作安装镜像）
 
 - 镜像制作：
 
-    - 下载[balenaEtcher](https://etcher.io)，选择安装镜像，选择需要制作的U盘，点击 `Flash` 即可。***Windows10需要以管理员权限运行***![etcher](https://images.daliansky.net/d/YmBXVA8q/blog/etcher.png?download=1)
+    - 下载[balenaEtcher](https://etcher.io)，选择安装镜像，选择需要制作的U盘，点击 `Flash` 即可。***Windows10需要以管理员权限运行***
 
 #### 查找适合自己的`EFI`
 
