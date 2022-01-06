@@ -34,13 +34,13 @@ ifconfig: interface en0 does not exist
 
   打开 `系统偏好设置` - `网络`，移除左侧所有的网络设备，左侧清空后，点击右下角的`应用`。如图所示：
 
-  ![Networks4](../../morefine-S500-Hackintosh/Docs/images/Tutorials/Networks4.png)
+  ![Networks4](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/Docs/images/Tutorials/Networks4.png)
 
 - 重启
 
 - 重新添加网络设备
 
-  ![Networks5](../../morefine-S500-Hackintosh/Docs/images/Tutorials/Networks5.png)
+  ![Networks5](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/Docs/images/Tutorials/Networks5.png)
 
 ## 检查网络状态
 
@@ -58,13 +58,13 @@ en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
 	status: active
 ```
 
-![Hackintool_Misc](../../morefine-S500-Hackintosh/Docs/images/Tutorials/Hackintool_Misc.png)
+![Hackintool_Misc](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/Docs/images/Tutorials/Hackintool_Misc.png)
 
 ## 重新登录 `app store`
 
 成功登录后如图所示：
 
-![appstore](../../morefine-S500-Hackintosh/Docs/images/Tutorials/appstore.png)
+![appstore](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/Docs/images/Tutorials/appstore.png)
 
 ## 收工，本教程结束
 
