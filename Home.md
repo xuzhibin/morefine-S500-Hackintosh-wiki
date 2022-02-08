@@ -6,3 +6,10 @@ Welcome to the morefine-S500-Hackintosh wiki!
 [![morefine S500](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/ScreenShots/S5003.png)](https://hackintosher.taobao.com)
 
 ![morefine S500](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/ScreenShots/S5002.png)
+
+### 支持 `通用控制`
+![morefine S500](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/ScreenShots/uc1.jpg)
+![morefine S500](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/ScreenShots/uc2.jpg)
+
+### 支持 `Mojave`
+![morefine S500](https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/ScreenShots/Mojave_for_S500.png)
